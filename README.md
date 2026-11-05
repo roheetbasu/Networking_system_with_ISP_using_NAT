@@ -78,4 +78,4 @@ The 195.136.17.x networks are the public addresses connecting the company to the
 
 ## How to Open
 
-Open `project6.pkt` with Cisco Packet Tracer.
+Open `NAT_ISP_NS.pkt` with Cisco Packet Tracer.
